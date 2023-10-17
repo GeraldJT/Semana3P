@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.holamundo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.holamundo"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
